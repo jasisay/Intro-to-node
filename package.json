@@ -1,0 +1,15 @@
+{
+  "name": "nodefiles",
+  "version": "18.18.1",
+  "description": "simple web app",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/jasisay/Intro-to-node.git)"
+  },
+  "author": "Joseph Sisay",
+  "license": "ISC"
+}
